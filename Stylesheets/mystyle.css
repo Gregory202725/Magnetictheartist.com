@@ -1,0 +1,57 @@
+p,ol {
+
+font-size:17px;
+line-height: 2;
+letter-spacing: 1px;
+    
+}
+
+h1, {
+    
+    font-size:65px;
+    text-align: center;
+
+    
+}
+
+
+#quote {
+   
+  font-style: italic; /* this makes text Italic */
+    font-size: 20px;
+    /* this makes font size */
+    font-weight: bold;
+    
+}
+
+body {
+    margin:10 auto;
+    padding: 10 20px 20px 20px;
+    color: purple;
+    
+    
+}
+
+html {background-color: #FFD629;
+ font-family: cursive;
+}
+
+.para {
+    
+    font-size: 20px;
+    
+    
+}
+
+img {
+    
+    display: block;
+    margin:0 atuo;
+}
+    
+    
+/* this is a multiple comment code */
+    
+    
+    
+    
